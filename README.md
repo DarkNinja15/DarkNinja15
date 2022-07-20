@@ -1,6 +1,6 @@
 ### About me!!
 - 👋 Hi, I’m Animesh Shukla
-- 👀 I’m interested in competitive programming,web development,AI,ML and open source
+- 👀 I’m interested in competitive programming,flutter development,AI,ML and open source
 - 🌱 I’m currently learning C++,Flutter,Dart
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at animeshshukla1518@gmail.com
