@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+DakrNinja'.;I+love+open-source.;I+love+contributing.;I+love+learning.;I+love+spreading+knowledge.;And+some+day+I'll be king of the Pirates&center=true&width=500&height=50"></a>
+  </p>
   <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Dart-14354C?style=for-the-badge&logo=dart&logoColor=white">
@@ -25,6 +26,12 @@
   <p>
   <div align="center">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Postgres-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind css-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </div>
   </p>
   
