@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+DakrNinja'.;I+love+open-source.;I+love+contributing.;I+love+learning.;I+love+spreading+knowledge.;And+some+day+I'll be king of the Pirates&center=true&width=500&height=50"></a>
-  </p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Developer.;I+love+open-source.;I+love+contributing.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
   <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Dart-14354C?style=for-the-badge&logo=dart&logoColor=white">
