@@ -10,19 +10,17 @@
   </div>
   </p>
   
-  <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </div>
-  <div>
+  <div align="center">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=white">	
     <img src="https://img.shields.io/badge/IOS-14354C?style=for-the-badge&logo=ios&logoColor=white">	
   </div>
-  </p>
   
   <p>
   <div align="center">
