@@ -76,7 +76,7 @@
   
   ## HacktoberFest 2022 Badges
   
-  [![@evilshadow's Holopin board](https://www.holopin.me/evilshadow)](https://www.holopin.io/@evilshadow#badges)
+  [![@evilshadow's Holopin board](https://www.holopin.me/evilshadow)](https://www.holopin.io/@evilshadow)
   
   ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me!!
   - 👋 Hi, I’m @DarkNinja15
