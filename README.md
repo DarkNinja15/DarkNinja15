@@ -49,11 +49,11 @@
   </div>
   </p>
   
-  # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+  <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
   
   <br/>
   <p align="left">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DarkNinja15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
+    <img width="49.5%" src="https://github-readme-stats-shrey2003.vercel.app/api?username=DarkNinja15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
       <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkNinja15&theme=radical&hide_border=true">		  
     </a>
   </p>
