@@ -15,11 +15,11 @@ Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer S
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarkNinja15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## Leetcard
+![](https://leetcard.jacoblin.cool/evilshadow01?theme=dark&font=Chivo&ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DarkNinja15&icon=0&color=2)](https://visitcount.itsvg.in)
