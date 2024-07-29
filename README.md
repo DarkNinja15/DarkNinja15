@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer Science Engineering in Indian Institute of Information Technology Bhagalpur<br>I’m looking to collaborate on open source projects<br>📫 Reach me at animeshshukla1518@gmail.com
 
+<img src="http://20.244.3.226/scrapper/DarkNinja15">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/animesh_shukla1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/animesh-shukla-356934231/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/animeshshukla1518/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Animesh-Shukla-50) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/AntiqueCheek6785/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/animesh-shukla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/animesh30173340) 
