@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer Science Engineering in Indian Institute of Information Technology Bhagalpur<br>I’m looking to collaborate on open source projects<br>📫 Reach me at animeshshukla1518@gmail.com
 
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/animesh_shukla1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/animesh-shukla-356934231/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/animeshshukla1518/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Animesh-Shukla-50) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/AntiqueCheek6785/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/animesh-shukla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/animesh30173340) 
@@ -11,23 +15,32 @@ Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer S
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DarkNinja15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=DarkNinja15&theme=radical&hide_border=true">		  
-  </a>
-</p>
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=DarkNinja15&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DarkNinja15&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkNinja15&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-    <img width="49.5%" src="https://github-readme-stats-shrey2003.vercel.app//api/top-langs/?username=DarkNinja15&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
+  <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarkNinja15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Leetcard
-![](https://leetcard.jacoblin.cool/evilshadow01?theme=dark&font=Chivo&ext=heatmap)
+
+<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/evilshadow01?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
