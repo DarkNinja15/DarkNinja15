@@ -46,9 +46,9 @@ Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer S
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h2>🐍 Contributions 🐍</h2>
+<!--<h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
+</div>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DarkNinja15&icon=0&color=2)](https://visitcount.itsvg.in)
