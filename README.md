@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!-- Hi, I’m @DarkNinja15<br>Tech Enthusiast<br>I’m currently studying Computer Science Engineering in Indian Institute of Information Technology Bhagalpur<br>I’m looking to collaborate on open source projects<br>📫 Reach me at animeshshukla1518@gmail.com -->
 
-<!--  <h2>🐍 Contributions 🐍</h2>
+<!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
 
