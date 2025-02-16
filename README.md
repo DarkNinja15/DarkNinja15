@@ -60,7 +60,6 @@
 </p>
 -->
 <p align="center">
-  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/evilshadow01?theme=dark&font=Nunito&ext=heatmap" /> 
   <img src="https://github-contributor-stats.vercel.app/api?username=DarkNinja15&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
