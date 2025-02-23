@@ -14,7 +14,6 @@
     Hey I am Animesh!
     Writing code that almost compiles itself.
   </h6>
-  
 </p>
 
 
